@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+#Style{
+    background-color: #1D809F;
+    padding: 5rem 0;
+}
+
+#Style .box-text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.all .box{
+    float: right;
+    width: 25%;
+    text-align: center;
+} */
+
+/* #Header{
+    background-color: #212529;
+    overflow: auto;
+    padding: 20px 4rem;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+a{
+    color: #fff;
+}
+
+.right a{
+    margin-right: 20px;
+}
+
+.gallery-text{
+    text-align: center;
+}
+
+.g-all{
+    width: 70%;
+    margin:  50px auto;
+}
+
+.g-box{
+    width: 50%;
+    float: left;
+    transition: .5s;
+}
+
+.g-box:hover {
+    transform: rotate(360deg) scale(0.8);
+}
+
+.g-box:hover img{
+    filter: opacity(0.5);
+}
+
+.g-box img{
+    width: 100%;
+    transition: 1s;
+    vertical-align: bottom;
+} */
+
+.all .box{
+    float: left;
+    width: 22%;
+    margin: 20px 10px;
+}
+
+.box .top{
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.box .top:hover img{
+    filter: blur(0);
+}
+
+.box .top img{
+    width: 100%;
+    transition: .5s;
+    filter: blur(5px);
+}
+
+.left{
+    width: 25%;
+    float: left;
+}
+
+.left img{
+    width: 100%;
+}
+
+.right{
+    width: 70%;
+    float: right;
+}
+
+#Reklam{
+    margin-top: 5rem;
+}
+
+.all{
+    width: 90%;
+    margin: auto;
+}
